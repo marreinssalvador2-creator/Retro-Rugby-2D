@@ -1,0 +1,6 @@
+{
+  "name": "Retro Rugby Bowl",
+  "description": "Videojuego de rugby 2D estilo pixel art retro inspirado en Retro Bowl, con cancha horizontal, pases hacia atrás, rucks, scrums, tries y patadas a los palos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
